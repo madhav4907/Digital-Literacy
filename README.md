@@ -1,8 +1,11 @@
 # Digital Literacy Portfolio 🚀
 
 **Name:** Madhav Singh
+
 **Registration Number:** 25BCE10425
+
 **Branch:** B.Tech Computer Science Engineering (Core)  
+
 **Year:** First Year  
 
 ## Project Overview
