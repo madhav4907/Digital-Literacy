@@ -1,0 +1,14 @@
+Part B: 'Stay Safe Online' Checklist
+Here are 8 actionable tips tailored for the Indian college environment:
+1. PIN is for Sending, Not Receiving: Remember that you never need to enter your UPI PIN to receive money. If someone asks for it, it’s a scam.
+2. Verify UPI IDs: Before hitting 'Pay,' always double-check the name displayed in the UPI app. Scammers often use names like "CustomerCare_SBI" to look official.
+3. Use Two-Factor Authentication (2FA): Enable 2FA on your Instagram, WhatsApp, and email accounts to prevent identity hijacking.
+4. Lock Your SIM Card: Set a SIM PIN. If your phone is stolen, the thief cannot put your SIM in another phone to receive OTPs for your bank accounts.
+5. Avoid Public Wi-Fi for Banking: Never log into your bank portal or UPI app using free canteen or railway station Wi-Fi. Use your mobile data instead.
+6. Screen Your Calls: Be wary of "Vishing" (Voice Phishing). If a "bank official" asks for an OTP or tells you your account is blocked, hang up and call the official bank number.
+7. Check App Permissions: Periodically review which apps have access to your contacts, SMS, and location. Delete "cleaner" or "battery saver" apps that look suspicious.
+8. Verify Direct Links: If you receive an SMS about a "scholarship" or "internship" with a shortened link (like bit.ly), do not click it. Visit the official website directly through your browser.
+How to Report Cybercrime in India:
+* Portal: Visit cybercrime.gov.in
+* National Helpline: Call 1930 immediately to report financial fraud and increase the chances of freezing the stolen funds.
+
